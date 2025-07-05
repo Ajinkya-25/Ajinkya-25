@@ -23,29 +23,30 @@
 <h2 align="left">I code with</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="28" alt="anaconda logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="28" alt="arduino logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="28" alt="embeddedc logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="28" alt="kaggle logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28" alt="numpy logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="28" alt="opencv logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28" alt="pytorch logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="28" alt="raspberrypi logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="28" alt="tensorflow logo" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="28" alt="firebase logo" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="28" alt="django logo" />
-  <img src="https://skillicons.dev/icons?i=flask" height="28" alt="flask logo" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="28" alt="git logo" />
-  <img src="https://skillicons.dev/icons?i=github" height="28" alt="github logo" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="28" alt="matlab logo" />
-  <img src="https://skillicons.dev/icons?i=octave" height="28" alt="octave logo" />
-  <img src="https://skillicons.dev/icons?i=ros" height="28" alt="ros logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="28" width="28" style="object-fit: contain;" alt="anaconda logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="28" width="28" style="object-fit: contain;" alt="arduino logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" width="28" style="object-fit: contain;" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" width="28" style="object-fit: contain;" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="28" width="28" style="object-fit: contain;" alt="embeddedc logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="28" width="28" style="object-fit: contain;" alt="kaggle logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" width="28" style="object-fit: contain;" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" width="28" style="object-fit: contain;" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28" width="28" style="object-fit: contain;" alt="numpy logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="28" width="28" style="object-fit: contain;" alt="opencv logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" width="28" style="object-fit: contain;" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28" width="28" style="object-fit: contain;" alt="pytorch logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="28" width="28" style="object-fit: contain;" alt="raspberrypi logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="28" width="28" style="object-fit: contain;" alt="tensorflow logo" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="28" width="28" style="object-fit: contain;" alt="firebase logo" />
+  <img src="https://cdn.simpleicons.org/django/092E20" height="28" width="28" style="object-fit: contain;" alt="django logo" />
+  <img src="https://skillicons.dev/icons?i=flask" height="28" width="28" style="object-fit: contain;" alt="flask logo" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="28" width="28" style="object-fit: contain;" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="28" width="28" style="object-fit: contain;" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=matlab" height="28" width="28" style="object-fit: contain;" alt="matlab logo" />
+  <img src="https://skillicons.dev/icons?i=octave" height="28" width="28" style="object-fit: contain;" alt="octave logo" />
+  <img src="https://skillicons.dev/icons?i=ros" height="28" width="28" style="object-fit: contain;" alt="ros logo" />
 </div>
+
 ###
 
 <picture>
