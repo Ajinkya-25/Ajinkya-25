@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ajinkya and I'm an AI/ML Engineer & Robotics Enthusiast, from India.</p>
+<p align="left">My name is Ajinkya and I'm an Engineer & Tech Enthusiast, from India.</p>
 
 ###
 
